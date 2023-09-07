@@ -11,7 +11,7 @@ h1 {
 
 }
 
-body {
+body .b {
     background-color: grey;
 }
 
@@ -113,7 +113,7 @@ body {
 
 }
 
-.bod {
+body.bod {
     background-image: url("/image/ds.jpg");
     background-size: cover;
     background-position: center;
@@ -232,7 +232,7 @@ body {
 
 }
 
-.dm {
+body.dm {
     background-image: url("/image/dsc.jpg");
     background-size: cover;
     background-position: center;
@@ -259,7 +259,7 @@ body {
     color: #f76060;
 
 }
-.bod2 {
+body.bod2 {
     background-image: url("/image/ds2.jpg");
     background-size: cover;
     background-position: center;
@@ -268,7 +268,7 @@ body {
     padding: 500px 0;
 }
 .img {max-width: 50%;}
-.bo {
+body.bo {
     background-image: url("/image/ds3.jpg");
     background-size: cover;
     background-position: center;
